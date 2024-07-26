@@ -64,7 +64,7 @@
     dig @localhost www.example.com
     ```
 
-# Files
+## Files
 - `Makefile`: Build script for the application.
 - `csci3363.zone`: Example DNS zone file with sample records.
 - `dns/`: Directory containing the Java source files:
