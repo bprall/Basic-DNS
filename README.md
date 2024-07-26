@@ -48,28 +48,28 @@
     example.com  3600 IN  A   192.168.1.1
     ```
 
-3. Build the Application:
+3. **Build the Application:**
     ```sh
     make
     ```
-4. Run the DNS Server:
-    In one terminal window run:
+4. **Run the DNS Server:**
+    **In one terminal window run:**
     ```sh
     sudo java dns.DNSServer server.zone
     ```
 
-5. Test with dig:
+5. **Test with dig:**
     In another terminal window run:
     ```sh
     dig @localhost www.example.com
     ```
 
 # Files
-- Makefile: Build script for the application.
-- csci3363.zone: Example DNS zone file with sample records.
-- dns/: Directory containing the Java source files:
-    - DNSZone.java: Manages DNS zone records.
-    - DNSMessage.java: Handles DNS messages and parsing.
-    - DNSRecord.java: Defines DNS records with caching support.
-    - DNSServer.java: Main DNS server class handling queries and caching.
-    - DNSCache.java: Implements the caching mechanism for DNS records.
+- `Makefile`: Build script for the application.
+- `csci3363.zone`: Example DNS zone file with sample records.
+- `dns/`: Directory containing the Java source files:
+    - `DNSZone.java`: Manages DNS zone records.
+    - `DNSMessage.java`: Handles DNS messages and parsing.
+    - `DNSRecord.java`: Defines DNS records with caching support.
+    - `DNSServer.java`: Main DNS server class handling queries and caching.
+    - `DNSCache.java`: Implements the caching mechanism for DNS records.
