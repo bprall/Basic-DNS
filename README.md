@@ -38,15 +38,15 @@
 2. **Configure Your DNS ZONE File:**
     Edit the `server.zone` file to include DNS records in the following format:
         
-```
-domain  TTL IN  A   IPv4 address
-```
+    ```css
+    domain  TTL IN  A   IPv4 address
+    ```
     
     Replace `domain`, `TTL`, and `IPv4 address` with your desired values. For example:
         
-```
-example.com  3600 IN  A   192.168.1.1
-```
+    ```css 
+    example.com  3600 IN  A   192.168.1.1
+    ```
 
 3. Build the Application:
     ```sh
