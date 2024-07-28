@@ -65,6 +65,8 @@
     ```
 
 6. **Example Output:**
+
+
     <img src="https://cdn.glitch.global/3874a658-483f-41ac-b439-3b48eab1370f/dns-img.png?v=1722040052514" alt="Example Output" width="377" height="465"/>
 
 ## Files
