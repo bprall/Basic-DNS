@@ -2,7 +2,7 @@
 
 ## Overview
 
-`Basic-DNS` is a simple Java-based DNS server that supports caching and recursive query handling. This server is designed to resolve DNS queries by forwarding requests to upstream servers when needed and caching responses to improve performance.
+`Java-DNS` is a simple Java-based DNS server that supports caching and recursive query handling. This server is designed to resolve DNS queries by forwarding requests to upstream servers when needed and caching responses to improve performance.
 
 ## Features
 
