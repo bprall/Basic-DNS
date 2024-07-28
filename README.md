@@ -67,7 +67,8 @@
     ```
 
 6. **Example Program Output:**
-    using `dig @localhost www.google.com`:
+    <br>
+    Using `dig @localhost www.google.com`:
     <br>
     <img src="https://cdn.glitch.global/3874a658-483f-41ac-b439-3b48eab1370f/dns-img.png?v=1722040052514" alt="Example Program Output" width="377" height="465"/>
 
