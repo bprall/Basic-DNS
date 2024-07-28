@@ -75,6 +75,7 @@
 
 7. **Example Dig Output:**
     <br>
+    <br>
     <img src="https://cdn.glitch.global/3874a658-483f-41ac-b439-3b48eab1370f/dns-dig-img.png?v=1722204194235" alt="Example Dig Output"/>
 
 
