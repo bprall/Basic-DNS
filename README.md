@@ -1,4 +1,4 @@
-# Basic-DNS
+# Java-DNS
 
 ## Overview
 
