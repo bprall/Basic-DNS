@@ -53,12 +53,14 @@
     make
     ```
 4. **Run the DNS Server:**
-    **In one terminal window run:**
+    
+    In one terminal window run:
     ```sh
     sudo java dns.DNSServer server.zone
     ```
 
 5. **Test with dig:**
+    
     In another terminal window run:
     ```sh
     dig @localhost www.example.com
